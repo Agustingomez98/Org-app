@@ -1,0 +1,29 @@
+.team {
+    background-color: #D9F7E9;
+    padding: 32px;
+    text-align: center;
+    color: black;
+    font-size: 32px;
+    position:relative;
+}
+
+.color{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+
+.team h3{
+    font-weight: 400;
+    color: #212121;
+    border-bottom: 4px solid #57C278;
+    display: inline-block;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+}
+
+.colaboradores{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
